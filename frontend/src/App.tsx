@@ -17,7 +17,6 @@ function Band({name, members, Formed}: {name: string, members: string, Formed: n
 
   return(
     <>
-    <img/>
     <h2>Name: {name}</h2>
     <h3>Original Members: {members}</h3>
     <h3>Formed: {Formed}</h3>
